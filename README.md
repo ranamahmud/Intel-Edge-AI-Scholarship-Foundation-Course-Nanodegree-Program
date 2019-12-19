@@ -1,3 +1,5 @@
+# Intel Edge AI problems solved by me using Python Programming.
+
 # Deploy Your First Edge App
 
 So far, you've downloaded some pre-trained models, handled their inputs, and learned how
